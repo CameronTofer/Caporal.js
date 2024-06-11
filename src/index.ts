@@ -67,6 +67,7 @@
 import { Program } from "./program"
 export { Command } from "./command"
 export * from "./types"
+export { complete } from "./autocomplete"
 
 /**
  * @ignore
